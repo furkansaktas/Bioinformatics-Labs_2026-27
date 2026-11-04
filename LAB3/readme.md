@@ -1,4 +1,3 @@
-"""
 Lab 3 (variation) - Codon frequency analyzer
 Reads a FASTA file, counts codons across all 6 reading frames
 (3 forward + 3 on the reverse complement), prints the top N codons
@@ -11,4 +10,3 @@ Usage:
 
 Requires:
     pip install matplotlib
-"""
