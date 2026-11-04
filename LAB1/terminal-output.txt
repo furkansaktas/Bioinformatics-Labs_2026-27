@@ -1,0 +1,53 @@
+DNA Sequence: GGATCCATGAAGCTTACGTAGCTA
+Length: 24
+
+Single Nucleotide Frequency:
+A: 7 (29.2%)
+T: 6 (25.0%)
+C: 5 (20.8%)
+G: 6 (25.0%)
+
+GC content: 45.8%
+
+2-Letter Combination Frequency:
+TA: ### (3)
+AG: ## (2)
+AT: ## (2)
+CT: ## (2)
+GA: ## (2)
+GC: ## (2)
+AA: # (1)
+AC: # (1)
+CA: # (1)
+CC: # (1)
+CG: # (1)
+GG: # (1)
+GT: # (1)
+TC: # (1)
+TG: # (1)
+TT: # (1)
+
+3-Letter Combination Frequency:
+AGC: ## (2)
+GCT: ## (2)
+AAG: # (1)
+ACG: # (1)
+ATC: # (1)
+ATG: # (1)
+CAT: # (1)
+CCA: # (1)
+CGT: # (1)
+CTA: # (1)
+CTT: # (1)
+GAA: # (1)
+GAT: # (1)
+GGA: # (1)
+GTA: # (1)
+TAC: # (1)
+TAG: # (1)
+TCC: # (1)
+TGA: # (1)
+TTA: # (1)
+
+Most frequent 2-mer: TA (3x)
+Most frequent 3-mer: AGC (2x)
