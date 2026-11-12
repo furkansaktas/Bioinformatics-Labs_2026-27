@@ -2,14 +2,6 @@
 
 Two exercises that work on a DNA sequence of 1000–3000 nucleotides taken from NCBI.
 
-## Files
-
-| File | Description |
-|---|---|
-| `lab5_ex1_gel.py` | Exercise 1: gel electrophoresis simulation |
-| `lab5_ex2_repeats.py` | Exercise 2: tandem repeat finder |
-| `sequence.fasta` | Your sequence downloaded from NCBI (not included) |
-
 ## Requirements
 
 ```bash
